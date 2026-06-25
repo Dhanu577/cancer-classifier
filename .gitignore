@@ -1,0 +1,11 @@
+﻿# Large data files
+data/data.csv
+data/dataset.zip
+data/dataset.tar.gz
+
+# Compiled Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
