@@ -138,4 +138,4 @@ Cancer type prediction + confidence scores
 
 ---
 
-*Built as a bioinformatics ML portfolio project using real TCGA cancer genomics data.*
+
