@@ -1,6 +1,6 @@
 # GeneClass — Cancer Type Classifier
 
-A machine learning project that classifies cancer types from RNA-seq gene expression profiles using the TCGA PANCAN dataset. Achieves **97.52% accuracy** across 5 cancer types.
+A machine learning project that classifies cancer types from RNA-seq gene expression profiles using the TCGA PANCAN dataset. Achieves **97.52% accuracy** includes 5 cancer types.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange?style=flat-square)
