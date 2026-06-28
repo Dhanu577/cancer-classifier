@@ -52,7 +52,7 @@ cancer_classifier/
 │   └── templates/
 │       └── index.html        # Frontend UI
 ├── outputs/
-│   ├── confusion_matrix.png  # Evaluation plot
+│   ├── confusion_matrix.png  # Evaluation graph
 │   ├── gene_importance.png   # Feature importance plot
 │   └── model.pkl             # Trained Random Forest model
 ├── requirements.txt
