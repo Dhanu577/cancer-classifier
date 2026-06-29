@@ -131,8 +131,8 @@ Cancer type prediction + confidence scores
 ## Tech Stack
 
 - Python 3.8+
-- scikit-learn — Random Forest, PCA, StandardScaler
-- pandas, numpy — data processing
+- scikit-learn - Random Forest, PCA, StandardScaler
+- pandas, numpy - data processing
 - matplotlib, seaborn — visualization
 - Flask — web application
 
