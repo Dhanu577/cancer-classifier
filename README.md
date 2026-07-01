@@ -1,4 +1,4 @@
-# GeneClass — Cancer Classifier.
+# GeneClass - Cancer Classifier.
 
 A machine learning project that classifies cancer types from RNA-seq gene expression profiles using the TCGA PANCAN dataset. Achieves **97.52% accuracy** includes 5 cancer types.
 
