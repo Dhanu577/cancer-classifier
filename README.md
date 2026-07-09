@@ -11,7 +11,7 @@ Machine learning project that classifies cancer types from RNA-seq gene expressi
 
 ## Results
 
-| Metric |  |
+| Metric | Score |
 |--------|-------|
 | Test Accuracy | **97.52%** |
 | Macro F1-Score | 0.97 |
