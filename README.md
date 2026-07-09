@@ -9,7 +9,7 @@ Machine learning project that classifies cancer types from RNA-seq gene expressi
 
 ---
 
-## Result
+## Results
 
 | Metric | Score |
 |--------|-------|
